@@ -20,7 +20,7 @@ const translations = {
     websiteDesc: "ពត៌មានលម្អិតអំពីសាលា និងកម្មវិធីសិក្សា។",
     phoneTitle: "លេខទំនាក់ទំនង",
     phoneDesc: "015 90 44 55",
-    footer: "©2025 Deverlop by SoKun"
+    footer: "© 2025 Westgate International School"
   },
   en: {
     title: "Westgate International School",
@@ -40,7 +40,7 @@ const translations = {
     websiteDesc: "All information about the school and programs.",
     phoneTitle: "Contact Number",
     phoneDesc: "015 90 44 55",
-    footer: "©2025 Deverlop by SoKun"
+    footer: "© 2025 Westgate International School"
   }
 };
 
@@ -128,3 +128,4 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 });
+
